@@ -1,0 +1,6 @@
+# config.yml
+
+database:
+  username: root
+  password: GoTheBest
+  dbname: twitter
